@@ -4,6 +4,6 @@ This repository contains Programming Assignment 1 for the course EE P 596: Advan
 
 The Cellphone dataset analysis includes cleaning and preprocessing the data, data visualization, correlation analysis, and employing machine learning algorithms such as linear regression to predict cellphone prices based on their specifications.
 
-The Housing dataset analysis involves predicting house sale prices in Ames, Iowa, based on various features. The project includes data preprocessing, cleaning, visualization, correlation analysis, linear regression, Lasso regression, model evaluation, feature importance analysis, importance visualization, and model tuning.
+The Housing dataset analysis involves predicting house sale prices based on various features. The project includes data preprocessing, cleaning, visualization, correlation analysis, linear regression, Lasso regression, model evaluation, feature importance analysis, importance visualization, and model tuning.
 
 The repository contains Jupyter notebooks with complete analysis and code for both datasets. Python, Pandas, Numpy, and Scikit-learn libraries are used for data processing and machine learning implementation. Instructions on running the code on the VS Code server are also included.
